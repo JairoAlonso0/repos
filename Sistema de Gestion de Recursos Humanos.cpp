@@ -1,6 +1,6 @@
 #include <iostream>
 
-// Clase base Empleado
+// Clase base Empleado//
 class Empleado {
 protected:
     double salarioBase;

@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//GAAAAAAAAAAAAA
 // Definición de la clase base Vehiculo
 class Vehiculo {
 public:
